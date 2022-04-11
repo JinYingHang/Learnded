@@ -1,0 +1,17 @@
+D:\_vs2022学习课程\继承\继承\bin\Debug\net6.0\继承.exe
+D:\_vs2022学习课程\继承\继承\bin\Debug\net6.0\继承.deps.json
+D:\_vs2022学习课程\继承\继承\bin\Debug\net6.0\继承.runtimeconfig.json
+D:\_vs2022学习课程\继承\继承\bin\Debug\net6.0\继承.dll
+D:\_vs2022学习课程\继承\继承\bin\Debug\net6.0\继承.pdb
+D:\_vs2022学习课程\继承\继承\obj\Debug\net6.0\继承.csproj.AssemblyReference.cache
+D:\_vs2022学习课程\继承\继承\obj\Debug\net6.0\继承.GeneratedMSBuildEditorConfig.editorconfig
+D:\_vs2022学习课程\继承\继承\obj\Debug\net6.0\继承.AssemblyInfoInputs.cache
+D:\_vs2022学习课程\继承\继承\obj\Debug\net6.0\继承.AssemblyInfo.cs
+D:\_vs2022学习课程\继承\继承\obj\Debug\net6.0\继承.csproj.CoreCompileInputs.cache
+D:\_vs2022学习课程\继承\继承\obj\Debug\net6.0\继承.dll
+D:\_vs2022学习课程\继承\继承\obj\Debug\net6.0\refint\继承.dll
+D:\_vs2022学习课程\继承\继承\obj\Debug\net6.0\继承.pdb
+D:\_vs2022学习课程\继承\继承\obj\Debug\net6.0\继承.genruntimeconfig.cache
+D:\_vs2022学习课程\继承\继承\obj\Debug\net6.0\ref\继承.dll
+D:\_vs2022学习课程\继承\继承\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\_vs2022学习课程\继承\继承\obj\Debug\net6.0\继承.csproj.CopyComplete
