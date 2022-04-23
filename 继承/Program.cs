@@ -12,11 +12,23 @@
     //rectangle.Display_vir();
     //rectangle.Didplay_Abs();
 
-    ParentClass par = new ChildClass1();
-    par.ParVirMethod(); //结果："子类1的方法"，调用子类的方法，实现了多态
 
-    par = new ChildClass2();
-    par.ParVirMethod(); //结果："父类的方法"，调用父类的方法，没有实现多态  
+
+    //ParentClass par = new ChildClass1();
+    //par.ParVirMethod(); //结果："子类1的方法"，调用子类的方法，实现了多态
+
+    //par = new ChildClass2();
+    //par.ParVirMethod(); //结果："父类的方法"，调用父类的方法，没有实现多态  
+
+    People people;
+    List<People> peoples = new List<People>();
+    people = new Women();
+    peoples.Add(people);
+    people = new Men();
+    peoples.Add(people);
+
+
+
 }
 
 #region 继承基本，基类有参构造，抽象，虚拟
@@ -82,6 +94,7 @@ class 长方体体积 : Rectangle
 }
 #endregion
 
+#region 多态，隐藏方法
 /// <summary>  
 /// 父类  
 /// </summary>  
@@ -119,5 +132,30 @@ public class ChildClass2 : ParentClass
         Console.WriteLine("子类2的其他方法...");
     }
 }
+#endregion
 
+#region 多态的实现
+public class People
+{
+    public virtual void Run()
+    {
+        Console.WriteLine("Running...");
+    }
+}
+public class Women : People
+{
+    public override void Run()
+    {
+        Console.WriteLine("wuhuhu....");
+    }
+}
+public class Men : People
+{
+    public override void Run()
+    {
+        Console.WriteLine("aHaha....");
+    }
+}
+
+#endregion
 
