@@ -5,7 +5,11 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "继承", "继承\继承.csproj", "{0D68E752-ED56-4D71-9614-0C9F66E0124C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "多态", "多态\多态.csproj", "{282AD387-999A-4882-BF51-CCD0AFA66C23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "多态", "多态\多态.csproj", "{282AD387-999A-4882-BF51-CCD0AFA66C23}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{9BF23780-9C92-42EB-965C-9F363DFDCE72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", "{15300C80-BE22-43F9-BFEA-F1DB0EF48A5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{282AD387-999A-4882-BF51-CCD0AFA66C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{282AD387-999A-4882-BF51-CCD0AFA66C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{282AD387-999A-4882-BF51-CCD0AFA66C23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BF23780-9C92-42EB-965C-9F363DFDCE72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF23780-9C92-42EB-965C-9F363DFDCE72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF23780-9C92-42EB-965C-9F363DFDCE72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF23780-9C92-42EB-965C-9F363DFDCE72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15300C80-BE22-43F9-BFEA-F1DB0EF48A5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15300C80-BE22-43F9-BFEA-F1DB0EF48A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15300C80-BE22-43F9-BFEA-F1DB0EF48A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15300C80-BE22-43F9-BFEA-F1DB0EF48A5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
